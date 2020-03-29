@@ -3,4 +3,4 @@ This project is to build a deep learning model using Encoder-Decoder structure t
 # Model Architucture:
 xx
 # Dataset:
-English Arabic dataset is available [here:] (http://www.manythings.org/anki/)
+English Arabic dataset is available[here:](http://www.manythings.org/anki/)
