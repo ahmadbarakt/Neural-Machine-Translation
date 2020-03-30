@@ -6,3 +6,4 @@ xx
 English Arabic dataset is available [here:](http://www.manythings.org/anki/)
 # Referances:
 https://keras.io/examples/lstm_seq2seq/
+https://www.tensorflow.org/tutorials/text/nmt_with_attention
