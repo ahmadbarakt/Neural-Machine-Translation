@@ -4,3 +4,5 @@ This project is to build a deep learning model using Encoder-Decoder structure t
 xx
 # Dataset:
 English Arabic dataset is available [here:](http://www.manythings.org/anki/)
+# Referances:
+https://keras.io/examples/lstm_seq2seq/
